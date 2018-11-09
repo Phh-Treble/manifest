@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-<remote name="phh" fetch="https://github.com/phhusson/" />
+<remote name="phh" fetch="https://github.com/Phh-Treble/" />
 
 <remove-project name="platform/build" />
 <project path="build/make" name="platform_build" remote="phh" revision="android-9.0.0_r16-phh">
